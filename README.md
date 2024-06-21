@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swappy514
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML | CSS
+- 🌱 I’m currently learning HTML | CSS | JavaScript | Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail: swaroopjadhav5@gmail.com
 
