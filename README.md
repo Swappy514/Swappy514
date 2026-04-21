@@ -15,14 +15,15 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swappy514&theme=dark&show_icons=true&count_private=true&hide_rank=true)![](https://nirzak-streak-stats.vercel.app/?user=Swappy514&theme=dark&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swappy514&theme=dark&show_icons=true&count_private=true&hide_rank=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Swappy514&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swappy514&theme=dark&layout=compact&count_private=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Swappy514&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Swappy514&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Swappy514&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Swappy514&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Swappy514&icon=0&color=0)](https://visitcount.itsvg.in)
