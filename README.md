@@ -15,8 +15,7 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swappy514&theme=dark&show_icons=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Swappy514&theme=dark&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swappy514&theme=dark&show_icons=true&count_private=true&hide_rank=true)![](https://nirzak-streak-stats.vercel.app/?user=Swappy514&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swappy514&theme=dark&layout=compact&count_private=true)
 
 ## 🏆 GitHub Trophies
