@@ -3,20 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Swaroop%20Jadhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Flask%20%2B%20MongoDB%20%2B%20AWS&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
-<!-- ANIMATED TYPING SVG — using demolab.com (stable, not deprecated heroku) -->
+<!-- ANIMATED TYPING SVG -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Swaroop+Jadhav+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Flask+%2B+MongoDB+%2B+React+%2B+AWS;Building+AI-Powered+Web+Tools+%F0%9F%A4%96;BTech+CSE+2025+Graduate+%F0%9F%8E%93;Open+to+Work+%F0%9F%92%BC" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- STATUS BADGES -->
 <img src="https://komarev.com/ghpvc/?username=Swappy514&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%E2%9C%85-brightgreen?style=flat-square" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20✅-brightgreen?style=flat-square" alt="Open to Work"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Currently%20Building-AI%20Web%20Tools%20%F0%9F%A4%96-orange?style=flat-square" alt="Currently Building"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Based%20in-Maharashtra%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-blue?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/Currently%20Building-AI%20Web%20Tools%20🤖-orange?style=flat-square" alt="Currently Building"/>
 
 </div>
 
@@ -26,23 +23,23 @@
 
 ```python
 swaroop = {
-    "name":        "Swaroop Jadhav",
-    "alias":       "Swappy514",
-    "education":   "BTech CSE — 2025 Graduate 🎓",
-    "location":    "Maharashtra, India 🇮🇳",
-    "stack":       ["Python", "Flask", "MongoDB", "React", "Node.js", "AWS"],
-    "currently":   "Building AI-powered web tools 🤖",
-    "learning":    ["AWS Architecture", "Automation Workflows", "LLM APIs"],
-    "hobbies":     ["Video Editing 🎬", "Open Source 🌐", "Problem Solving 🎯"],
-    "portfolio":   "https://swaroop-portfolio-rouge.vercel.app/",
-    "available":   True,
+    "name":      "Swaroop Jadhav",
+    "alias":     "Swappy514",
+    "education": "BTech CSE — 2025 Graduate 🎓",
+    "location":  "Maharashtra, India 🇮🇳",
+    "stack":     ["Python", "Flask", "MongoDB", "React", "Node.js", "AWS"],
+    "building":  "AI-powered web tools 🤖",
+    "learning":  ["AWS Architecture", "Automation Workflows", "LLM APIs"],
+    "hobbies":   ["Video Editing 🎬", "Open Source 🌐", "Problem Solving 🎯"],
+    "portfolio": "https://swaroop-portfolio-rouge.vercel.app/",
+    "available": True,
 }
 ```
 
 - 🔥 Passionate about **clean UI** + **powerful backend logic**
-- 🌱 Currently deep into **AI-powered products** and **AWS architecture**
-- 💬 Ask me about **Flask, MongoDB, REST APIs, or MERN stack**
-- 📫 Reach me at **swaroopjadhav5@gmail.com**
+- 🌱 Deep into **AI-powered products** and **AWS architecture**
+- 💬 Ask me about **Flask, MongoDB, REST APIs, MERN stack**
+- 📫 **swaroopjadhav5@gmail.com**
 - ⚡ Fun fact: I also do **cinematic video editing** and motion graphics!
 
 ---
@@ -91,20 +88,22 @@ swaroop = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
+<!-- 
+  REPO CARDS: Using stats.hyp3ri0n.fun as primary mirror — more reliable than the
+  overloaded public vercel instance. If a card still fails, the link text shows instead.
+-->
+
 <div align="center">
 
-[![Flask TODO App](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=Flask-TODO-APP&theme=github_dark&show_owner=false&border_color=30363d)](https://github.com/Swappy514/Flask-TODO-APP)
-[![JavaScript Projects](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=JavaScript-Projects&theme=github_dark&show_owner=false&border_color=30363d)](https://github.com/Swappy514/JavaScript-Projects)
+[![Flask TODO App](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=Flask-TODO-APP&theme=github_dark&border_color=30363d&hide_border=false)](https://github.com/Swappy514/Flask-TODO-APP)&nbsp;[![JavaScript Projects](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=JavaScript-Projects&theme=github_dark&border_color=30363d&hide_border=false)](https://github.com/Swappy514/JavaScript-Projects)
 
-[![SmartGrocery SQL](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=SmartGrocery_SQL_Backend&theme=github_dark&show_owner=false&border_color=30363d)](https://github.com/Swappy514/SmartGrocery_SQL_Backend)
-[![Python Learning Hub](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=python-learning-hub&theme=github_dark&show_owner=false&border_color=30363d)](https://github.com/Swappy514/python-learning-hub)
+[![SmartGrocery SQL](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=SmartGrocery_SQL_Backend&theme=github_dark&border_color=30363d&hide_border=false)](https://github.com/Swappy514/SmartGrocery_SQL_Backend)&nbsp;[![Python Learning Hub](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=python-learning-hub&theme=github_dark&border_color=30363d&hide_border=false)](https://github.com/Swappy514/python-learning-hub)
 
 </div>
 
@@ -114,14 +113,13 @@ swaroop = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swappy514&theme=github_dark&show_icons=true&count_private=true&hide_rank=false&include_all_commits=true&border_color=30363d" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swappy514&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&border_color=30363d&rank_icon=github" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swappy514&theme=github_dark&layout=compact&count_private=true&langs_count=8&border_color=30363d" />
 
 </div>
 
 <div align="center">
 
-<!-- FIXED: using streak-stats.demolab.com — official maintained, consistent sizing -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Swappy514&theme=github-dark-blue&hide_border=false&border=30363d&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
@@ -130,9 +128,15 @@ swaroop = {
 
 ## 🏆 GitHub Trophies
 
+<!--
+  TROPHIES FIX: The public github-profile-trophy.vercel.app instance rate-limits
+  heavily. Using the flat theme with fewer trophies loads faster and more reliably.
+  If it still shows blank, the backup text links below are always visible.
+-->
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Swappy514&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Swappy514&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -140,17 +144,19 @@ swaroop = {
 
 ## 🐍 Contribution Snake
 
+<div align="center">
+
 <!-- 
-  ══════════════════════════════════════════
-  ACTIVATE THE SNAKE — ONE TIME SETUP:
-  ══════════════════════════════════════════
-  1. In THIS repo (Swappy514/Swappy514), go to:
-     Settings → Actions → General → Allow all actions ✅
+  ════════════════════════════════════════
+  SNAKE SETUP (one-time, ~5 minutes):
+  ════════════════════════════════════════
+  Step 1 → In Swappy514/Swappy514 repo, go to:
+           Settings → Actions → General
+           Set "Workflow permissions" to "Read and write permissions" ✅
 
-  2. Create the file:  .github/workflows/snake.yml
-     Paste this exactly:
+  Step 2 → Create new file:  .github/workflows/snake.yml
+           Paste this content:
 
-  ─────────────────────────────────────────
   name: Generate Snake
   on:
     schedule:
@@ -174,19 +180,16 @@ swaroop = {
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ─────────────────────────────────────────
 
-  3. Go to Actions tab → click "Generate Snake" → Run workflow
-  4. After it finishes, the snake images below will work automatically!
-  ══════════════════════════════════════════
+  Step 3 → Go to Actions tab → "Generate Snake" → click "Run workflow"
+  Step 4 → Wait ~1 minute → the snake SVGs below will start loading!
+  ════════════════════════════════════════
 -->
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swappy514/Swappy514/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swappy514/Swappy514/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Swappy514/Swappy514/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Swappy514/Swappy514/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -197,7 +200,6 @@ swaroop = {
 
 <div align="center">
 
-<!-- FIXED: added proper color params for visibility -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swappy514&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1e3a5f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -206,52 +208,8 @@ swaroop = {
 
 ## ⏱️ Weekly Coding Activity
 
-<!--
-  ══════════════════════════════════════════
-  ACTIVATE WAKATIME — SETUP STEPS:
-  ══════════════════════════════════════════
-  1. Create account: https://wakatime.com
-  2. Install WakaTime plugin in VS Code (or your IDE)
-  3. Paste your API key when prompted — it tracks automatically
-  4. Code for 3-5 days to generate enough data
-  5. Get API key: https://wakatime.com/settings/api-key
-  6. In this repo → Settings → Secrets → Actions → New:
-       Name:  WAKATIME_API_KEY
-       Value: your key from step 5
-  7. Also add:
-       Name:  GH_TOKEN  
-       Value: GitHub Personal Access Token (repo + user scope)
-              Create at: github.com/settings/tokens
-  8. Create .github/workflows/waka-readme.yml with this:
-
-  ─────────────────────────────────────────
-  name: Waka Readme
-  on:
-    schedule:
-      - cron: '30 18 * * *'
-    workflow_dispatch:
-  jobs:
-    update-readme:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: anmol098/waka-readme-stats@master
-          with:
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            GH_TOKEN: ${{ secrets.GH_TOKEN }}
-            SHOW_OS: "False"
-            SHOW_PROJECTS: "False"
-            SHOW_TIMEZONE: "False"
-            SHOW_EDITORS: "True"
-            SHOW_LANGUAGES: "True"
-            SHOW_COMMIT: "True"
-  ─────────────────────────────────────────
-
-  9. Delete the placeholder line below and keep only the markers:
-  ══════════════════════════════════════════
--->
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-Setting%20Up%20Soon%20⚡-blueviolet?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-Setting%20Up%20WakaTime%20Soon%20⚡-blueviolet?style=flat-square)
 <!--END_SECTION:waka-->
 
 ---
