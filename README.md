@@ -1,6 +1,6 @@
-<!-- TOP WAVE BANNER -->
+<!-- TOP WAVE BANNER — locked to pink→teal gradient -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Swaroop%20Jadhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Flask%20%2B%20MongoDB%20%2B%20AWS&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,11,30&height=180&section=header&text=Swaroop%20Jadhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Flask%20%2B%20MongoDB%20%2B%20AWS&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <!-- ANIMATED TYPING SVG -->
@@ -94,16 +94,11 @@ swaroop = {
 
 ## 🚀 Featured Projects
 
-<!-- 
-  REPO CARDS: Using stats.hyp3ri0n.fun as primary mirror — more reliable than the
-  overloaded public vercel instance. If a card still fails, the link text shows instead.
--->
-
 <div align="center">
 
-[![Flask TODO App](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=Flask-TODO-APP&theme=github_dark&border_color=30363d&hide_border=false)](https://github.com/Swappy514/Flask-TODO-APP)&nbsp;[![JavaScript Projects](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=JavaScript-Projects&theme=github_dark&border_color=30363d&hide_border=false)](https://github.com/Swappy514/JavaScript-Projects)
+[![Flask TODO App](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=Flask-TODO-APP&theme=github_dark&border_color=30363d&hide_border=false&cache_seconds=1800)](https://github.com/Swappy514/Flask-TODO-APP)&nbsp;[![JavaScript Projects](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=JavaScript-Projects&theme=github_dark&border_color=30363d&hide_border=false&cache_seconds=1800)](https://github.com/Swappy514/JavaScript-Projects)
 
-[![SmartGrocery SQL](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=SmartGrocery_SQL_Backend&theme=github_dark&border_color=30363d&hide_border=false)](https://github.com/Swappy514/SmartGrocery_SQL_Backend)&nbsp;[![Python Learning Hub](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=python-learning-hub&theme=github_dark&border_color=30363d&hide_border=false)](https://github.com/Swappy514/python-learning-hub)
+[![SmartGrocery SQL](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=SmartGrocery_SQL_Backend&theme=github_dark&border_color=30363d&hide_border=false&cache_seconds=1800)](https://github.com/Swappy514/SmartGrocery_SQL_Backend)&nbsp;[![Python Learning Hub](https://github-readme-stats.vercel.app/api/pin/?username=Swappy514&repo=python-learning-hub&theme=github_dark&border_color=30363d&hide_border=false&cache_seconds=1800)](https://github.com/Swappy514/python-learning-hub)
 
 </div>
 
@@ -128,69 +123,9 @@ swaroop = {
 
 ## 🏆 GitHub Trophies
 
-<!--
-  TROPHIES FIX: The public github-profile-trophy.vercel.app instance rate-limits
-  heavily. Using the flat theme with fewer trophies loads faster and more reliably.
-  If it still shows blank, the backup text links below are always visible.
--->
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Swappy514&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- 
-  ════════════════════════════════════════
-  SNAKE SETUP (one-time, ~5 minutes):
-  ════════════════════════════════════════
-  Step 1 → In Swappy514/Swappy514 repo, go to:
-           Settings → Actions → General
-           Set "Workflow permissions" to "Read and write permissions" ✅
-
-  Step 2 → Create new file:  .github/workflows/snake.yml
-           Paste this content:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  Step 3 → Go to Actions tab → "Generate Snake" → click "Run workflow"
-  Step 4 → Wait ~1 minute → the snake SVGs below will start loading!
-  ════════════════════════════════════════
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swappy514/Swappy514/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swappy514/Swappy514/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Swappy514/Swappy514/output/github-snake.svg" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=Swappy514&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 
 </div>
 
@@ -209,7 +144,9 @@ swaroop = {
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-Setting%20Up%20WakaTime%20Soon%20⚡-blueviolet?style=flat-square)
+
 <!--END_SECTION:waka-->
 
 ---
@@ -232,6 +169,6 @@ swaroop = {
 &nbsp;
 [![Hire Me](https://img.shields.io/badge/💼_Available_for_Work-brightgreen?style=for-the-badge)](mailto:swaroopjadhav5@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,11,30&height=100&section=footer" width="100%"/>
 
 </div>
